@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Filip and I'm a third-year student of Practical Computer Science at the University of Gdańsk.
+### I'm Filip, a graduate of Practical Computer Science from the University of Gdańsk, currently pursuing a master's degree in Computer Science.
 
 <div id="user-content-toc">
   <ul align="center">
