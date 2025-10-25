@@ -1,39 +1,27 @@
-### Hi there 👋
-### I'm Filip, a graduate of Practical Computer Science from the University of Gdańsk, currently pursuing a master's degree in Computer Science.
+### SDE @ Amazon - currently pursuing a master's degree in Computer Science at University of Gdańsk.
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">My main skills</h2></summary>
+    <summary><h2>workplace tech stack</h2></summary>
   </ul>
 </div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,rust,java,aws,&perline=10" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">had some experience with</h2></summary>
+  </ul>
+</div>
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,java,py,react,redux,nodejs,express,html,sass,docker,materialui,linux,mongodb,postgres,git&perline=8" />
-  </a>
-</p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Had some experience with</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,blender,kubernetes,flask&perline=10" />
-  </a>
-</p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Currently learning</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,aws,tensorflow,gradle,vite&perline=10" />
   </a>
 </p>
 
